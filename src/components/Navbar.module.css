@@ -1,0 +1,64 @@
+.navbarRow{
+    padding: 10px;
+}
+
+.navbarCol{
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbarTitle{
+    height: 45px;
+    border-radius: nullpx;
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(105, 111, 121, 1);
+}
+
+.searchIcon{
+    position: relative;
+    left: -285px;
+    color:rgba(105, 111, 121, 1);
+}
+
+.navbarSearch{
+    height: 45px;
+    width: 300px;
+    border-radius: 30px;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 15px 40px 5px rgba(237, 237, 237, 1);
+    border: #fff;
+    padding-left: 40px;
+    color:rgba(105, 111, 121, 1);
+}
+
+.navbarSearch:focus{
+    border: #fff;
+}
+
+.navbarAvtar{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 1);
+}
+
+.navbarUserName{
+    height: 29px;
+    border-radius: nullpx;
+    font-family: Poppins;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(105, 111, 121, 1);
+}

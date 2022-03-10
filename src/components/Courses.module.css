@@ -1,0 +1,36 @@
+.heading{
+    height: 50px;
+    border-radius: nullpx;
+    font-family: Poppins;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(105, 111, 121, 1);
+}
+
+.subHeading{
+    height: 30px;
+    width: 189px;
+    left: 368px;
+    top: 214px;
+    border-radius: nullpx;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(105, 111, 121, 1);
+}
+
+.ticketDiv{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    padding: 10px 0px;
+}
